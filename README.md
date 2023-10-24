@@ -22,7 +22,7 @@ I'm currently wrapping up my Master's Degree in Computer Science at [EPITECH Par
 
 ## 📗 TryHackMe
 
-![TryHackMe Badge]([https://github.com/H4ss/H4ss/blob/main/zaer778.png](https://github.com/H4ss/H4ss/blob/main/zaer778.png)
+![TryHackMe Badge](https://github.com/H4ss/H4ss/blob/main/zaer778.png)
 
 <!--script src="https://tryhackme.com/badge/692365"></script>-->
 
