@@ -1,6 +1,6 @@
 # Hello, I'm Hassan! 👋
 
-I'm currently wrapping up my Master's Degree in Computer Science at [EPITECH Paris](https://www.epitech.eu/fr/ecole-informatique-paris/). I'm passionate about programming, back-end development, and low-level programming. I'm on the lookout for part-time opportunities that will align with my school's curriculum for my final semester, transitioning to a full-time role from April 2024.
+I'm currently wrapping up my Master's Degree in Computer Science at [EPITECH Paris](https://www.epitech.eu/fr/ecole-informatique-paris/). I'm passionate about programming, back-end development, and low-level programming.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C, C++, Python, Rust, Javascript, ASM[NASM,x64,WASM], Bash, Powershell
