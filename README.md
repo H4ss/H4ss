@@ -1,6 +1,6 @@
 # Hello, I'm Hassan! 👋
 
-I'm currently wrapping up my Master's Degree in Computer Science at [EPITECH Paris](https://www.epitech.eu/fr/ecole-informatique-paris/). I'm passionate about programming, back-end development, and low-level programming.
+I'm currently working as a Cybersecurity consultant in Paris !
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C, C++, Python, Rust, Javascript, ASM[NASM,x64,WASM], Bash, Powershell
